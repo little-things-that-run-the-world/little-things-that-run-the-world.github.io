@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome &#124; 你好 &#124; བཀྲ་ཤིས་བདེ་ལགས།།"
+title: "Zhengyang Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome &#124; 你好 &#124; བཀྲ་ཤིས་བདེ་ལགས།།
 
 I'm a postdoctoral fellow at [Andrew Davies lab](https://davieslab.oeb.harvard.edu/). I graduated from Swarthmore College (B.A. 14') and Harvard University (PhD 22'). I'm interested in using remote-sensing and molecular ecology tools to study insects and their interactions with humans. After collecge, I spent a year on a [Watson Fellowship](https://en.wikipedia.org/wiki/Watson_Foundation) studying butterfly farming around the globe. My Ph.D focused on the evolutionary history of the insect-eating <em>Ophiocordyceps fungus</em> (aka caterpillar fungus) along the Himalayan and Hengduan mountains, as well as the livelihood of Tibetans who collect and sell them for a living. 
 
