@@ -14,7 +14,7 @@ I am a writer and conservation biologist. I graduated from Swarthmore College (B
 
 My scientific work centers around using remote-sensing and molecular ecology tools to study insects and their interactions with humans. Among my current interests are: light detection and ranging (LiDAR), silk moth domestication, entomophagy, and trans-boundary conservation along the Himalaya. See a list of lead-author publications [here](https://little-things-that-run-the-world.github.io/publications/).
 
-I pen a travel column for *Bowu* (博物杂志) in China. I have also written for *Nautilus Magazine*, *Grow*, and *Mongabay*. My new piece is coming in *Orion Magazine*. See my portfolio [here](https://little-things-that-run-the-world.github.io/portfolio/). 
+I pen a travel column for *Bowu* (博物杂志) in China. I have also written for *Nautilus Magazine*, *Grow*, and *Mongabay*. My new piece is up-coming in *Orion Magazine*. See my portfolio [here](https://little-things-that-run-the-world.github.io/portfolio/). 
 
 In 2014 I received a [Thomas J. Watson Fellowship](https://en.wikipedia.org/wiki/Watson_Foundation) to study butterfly farming around the world. In 2021 I received the [Bowdoin Prize](https://en.wikipedia.org/wiki/Bowdoin_Prizes) from Harvard University. In 2023 I received the [National Geographic Society Wayfinder Award](https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/) and was elected a National Geographic Explorer.
 
@@ -63,7 +63,7 @@ Featured in Documentary with Chinese National TV.
 
 <div class="tip" markdown="1" style="background-color: rgb(236,236,236);">
 <br/><img src='/images/catching butterflies.png'>
-<br/> Left: catching butterflies in the mountains of western Sichuan. Right: holding a Golden Birdwing in the rainforest of North Maluku.
+<br/> A life-time pursuit. Left: catching butterflies in the mountains of western Sichuan. Right: holding a Golden Birdwing in the rainforest of North Maluku.
 <br/>
 <br/>
 </div>
