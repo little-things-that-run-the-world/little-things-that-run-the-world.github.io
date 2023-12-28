@@ -52,7 +52,7 @@ Wayfinder Award spotlight talk at National Geographic Society Headquarters in D.
 
 <div class="tip" markdown="1" style="background-color: rgb(236,236,236);">
 <br/>
-I was featured in *Inside Shambhala*, a natural history documentary produced by China Central Television, broadcast nationwide.
+I was featured in *Inside Shambhala*, a natural history documentary about the eastern Himalaya biodiversity hotspot, broadcast nationwide in China.
 <iframe style="max-height: 300px" src="https://www.youtube.com/embed/MjmOtwZefvA?si=bzvh23RQxHV5sFdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
