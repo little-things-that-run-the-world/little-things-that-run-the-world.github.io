@@ -19,7 +19,10 @@ Welcome &#124; 你好 &#124; བཀྲ་ཤིས་བདེ་ལགས།།
 <img src='/images/Welcome_page_1_Teinopalpus.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
 
 
-I am a writer and conservation biologist. I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating *Ophiocordyceps* fungus and the Tibetans who harvest them for a living. Currently I am a postdoctoral fellow at [Andrew Davies lab](https://davieslab.oeb.harvard.edu/).
+I am a writer and conservation biologist. In 2014 I received a [Thomas J. Watson Fellowship](https://en.wikipedia.org/wiki/Watson_Foundation) to study butterfly farming around the world. In 2021 I received the [Bowdoin Prize](https://en.wikipedia.org/wiki/Bowdoin_Prizes) from Harvard University. In 2023 I received the [National Geographic Society Wayfinder Award](https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/) and was elected a National Geographic Explorer.
+
+
+I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating *Ophiocordyceps* fungus and the Tibetans who harvest them for a living. Currently I am a postdoctoral fellow at the [Andrew Davies lab](https://davieslab.oeb.harvard.edu/).
 
 
 <img src='/images/Welcome_page_2_paradisea.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
@@ -41,7 +44,7 @@ Here is my [interview](https://magazine.swarthmore.edu/issue/fall-2022/secrets-o
 
 <img src='/images/Welcome_page_3_wing.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
 
-In 2014 I received a [Thomas J. Watson Fellowship](https://en.wikipedia.org/wiki/Watson_Foundation) to study butterfly farming around the world. In 2021 I received the [Bowdoin Prize](https://en.wikipedia.org/wiki/Bowdoin_Prizes) from Harvard University. In 2023 I received the [National Geographic Society Wayfinder Award](https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/) and was elected a National Geographic Explorer.
+
 
 
 
