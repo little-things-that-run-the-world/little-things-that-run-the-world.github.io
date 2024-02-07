@@ -17,10 +17,9 @@
 
 .page {
   background: black;
-
   @include breakpoint($large) {
     @include span(10 of 12 last);
-    @include prefix(0.2 of 12);
+    @include prefix(0 of 12);
     @include suffix(0 of 12);
   }
 
@@ -52,6 +51,7 @@
 }
 
 .page__content {
+	padding-left: 0.5em;
 
   h2 {
 	padding-bottom: 0.5em;
