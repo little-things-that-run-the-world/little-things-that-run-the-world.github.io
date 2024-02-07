@@ -94,7 +94,7 @@
   }
 
   dd {
-    margin-left: 1em;
+    margin-left: 0em;
     font-family: $sans-serif;
     font-size: $type-size-6;
   }
@@ -133,7 +133,7 @@
     }
 
     .wrapper {
-      padding-left: 1em;
+      padding-left: 0em;
       padding-right: 0em;
 
       @include breakpoint($x-large) {
