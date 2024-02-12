@@ -28,12 +28,12 @@ Welcome &#124; 你好 &#124; བཀྲ་ཤིས་བདེ་ལགས།།
 </p>
 
 
+<p style="margin-right: 5%; margin-left:5%">
+I am a writer and conservation biologist. In 2014 I received a <a href="https://en.wikipedia.org/wiki/Watson_Foundation">Thomas J. Watson Fellowship</a> to study butterfly farming around the world. In 2021 I received the <a href="https://en.wikipedia.org/wiki/Bowdoin_Prizes">Bowdoin Prize</a> from Harvard University. In 2023 I received the <a href="https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/">National Geographic Society Wayfinder Award</a> and was elected a National Geographic Explorer.
 
-I am a writer and conservation biologist. In 2014 I received a [Thomas J. Watson Fellowship](https://en.wikipedia.org/wiki/Watson_Foundation) to study butterfly farming around the world. In 2021 I received the [Bowdoin Prize](https://en.wikipedia.org/wiki/Bowdoin_Prizes) from Harvard University. In 2023 I received the [National Geographic Society Wayfinder Award](https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/) and was elected a National Geographic Explorer.
 
-
-I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating *Ophiocordyceps* fungus and the Tibetans who harvest them for a living. Currently I am a postdoctoral fellow at the [Andrew Davies lab](https://davieslab.oeb.harvard.edu/).
-
+<br><br>I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating <i>Ophiocordyceps</i> fungus and the Tibetans who harvest them for a living. Currently I am a postdoctoral fellow at the <a href="https://davieslab.oeb.harvard.edu/">Andrew Davies lab</a>.
+</p>
 
 <img src='/images/Welcome_page_2_paradisea.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
 
@@ -41,16 +41,17 @@ I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard U
 <i>Ornithoptera paradisea</i> specimen at Harvard Museum of Comparative Zoology. credit: Christian Alessandro Perez
 </p>
 
+<p style="margin-right: 5%; margin-left:5%">
 My scientific work centers around using remote-sensing and molecular ecology tools to study insects and their interactions with humans. Among my current interests are: light detection and ranging (LiDAR), silk moth domestication, entomophagy, and trans-boundary conservation along the Himalaya. 
 
-See a list of lead-author publications [here](https://little-things-that-run-the-world.github.io/publications/). 
+<br><br>See a list of lead-author publications <a href="https://little-things-that-run-the-world.github.io/publications/">here</a>. 
 
-I pen a travel column for *Bowu* (博物杂志) in China. I have also written for *Nautilus Magazine*, *Grow*, and *Mongabay*. My new piece is up-coming in *Orion Magazine*. 
+<br><br>I pen a travel column for *Bowu* (博物杂志) in China. I have also written for <i>Nautilus Magazine</i>, <i>Grow</i>, and <i>Mongabay</i>. My new piece is up-coming in <i>Orion Magazine</i>. 
 
-See my portfolio [here](https://little-things-that-run-the-world.github.io/portfolio/). 
+<br><br>See my portfolio <a href="https://little-things-that-run-the-world.github.io/portfolio/">here</a>. 
 
-Here is my [interview](https://magazine.swarthmore.edu/issue/fall-2022/secrets-of-the-butterfly-hunter/) with *Swarthmore Magazine*, where I share with alumni what it is like chasing butterfly for a living.
-
+<br><br>Here is my <a href="https://magazine.swarthmore.edu/issue/fall-2022/secrets-of-the-butterfly-hunter/">interview</a> with <i>Swarthmore Magazine</i>, where I share with alumni what it is like chasing butterfly for a living.
+</p>
 
 
 <p style="text-align: center;">
