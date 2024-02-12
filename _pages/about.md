@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Zhengyang Wang"
-excerpt: "About me"
 author_profile: false
 redirect_from: 
   - /about/
