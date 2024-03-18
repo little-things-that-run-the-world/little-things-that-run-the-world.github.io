@@ -9,6 +9,12 @@ Listed are my first and senior author publications.
 See [Google Scholar](https://scholar.google.com/citations?user=yL-Iv6wAAAAJ&hl=en) for all my publications, updated.
 
 <div class="tip" markdown="1" style="background-color: rgb(236,236,236);">
+**Remote sensing of insects:**
+</div>
+
+[2024] **Wang Z**, Huben R, Boucher P, Van Amburg C, Zeng J, Chung N...Davies A. [Automated detection of an insect-induced keystone vegetation phenotype using airborne LiDAR.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14298) *Methods in Ecology and Evolution*.
+
+<div class="tip" markdown="1" style="background-color: rgb(236,236,236);">
 **Insect trade on the internet:**
 </div>
 
