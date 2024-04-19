@@ -46,7 +46,7 @@ My scientific work centers around using remote-sensing and molecular ecology too
 
 <br><br>See a list of lead-author publications <a href="https://little-things-that-run-the-world.github.io/publications/">here</a>. 
 
-<br><br>I pen a travel column for *Bowu* (博物杂志) in China. I have also written for <i>Nautilus Magazine</i>, <i>Grow</i>, and <i>Mongabay</i>. My new piece is up-coming in <i>Orion Magazine</i>. 
+<br><br>I pen a travel column for *Bowu* (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>, <i>Grow</i>, and <i>Mongabay</i>. My new piece is up-coming in <i>Orion Magazine</i>. 
 
 <br><br>See my portfolio <a href="https://little-things-that-run-the-world.github.io/portfolio/">here</a>. 
 

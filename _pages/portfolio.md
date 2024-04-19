@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+<br/><img src='/images/Nat_Geo_Hybrid.png'>
+[2024] [National Geographic](https://www.nationalgeographic.com/science/article/oldest-hybrid-butterfly-species) 
 
 <br/><img src='/images/Nautilus_caterpillar_fungus.png'>
 [2023] [Nautilus](https://nautil.us/the-last-of-the-fungus-370460/) 
