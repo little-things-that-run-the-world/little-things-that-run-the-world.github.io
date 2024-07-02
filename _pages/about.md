@@ -32,7 +32,10 @@ Welcome &#124; 你好 &#124; བཀྲ་ཤིས་བདེ་ལགས།།
 I am a writer and conservation biologist. In 2014 I received a <a href="https://en.wikipedia.org/wiki/Watson_Foundation">Thomas J. Watson Fellowship</a> to study butterfly farming around the world. In 2021 I received the <a href="https://en.wikipedia.org/wiki/Bowdoin_Prizes">Bowdoin Prize</a> from Harvard University. In 2023 I received the <a href="https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/">National Geographic Society Wayfinder Award</a> and was elected a National Geographic Explorer.
 
 
-<br><br>I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating <i>Ophiocordyceps</i> fungus and the Tibetans who harvest them for a living. Currently I am a postdoctoral fellow at the <a href="https://davieslab.oeb.harvard.edu/">Andrew Davies lab</a>.
+<br><br>I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating <i>Ophiocordyceps</i> fungus and the Tibetans who harvest them for a living. 
+
+
+<br><br>Currently I am an Associate at the Department of Organismic and Evolutionary Biology, Harvard University.
 </p>
 
 <img src='/images/Welcome_page_2_paradisea.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
@@ -46,7 +49,7 @@ My scientific work centers around using remote-sensing and molecular ecology too
 
 <br><br>See a list of lead-author publications <a href="https://little-things-that-run-the-world.github.io/publications/">here</a>. 
 
-<br><br>I pen a travel column for *Bowu* (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>, <i>Grow</i>, and <i>Mongabay</i>. My new piece is up-coming in <i>Orion Magazine</i>. 
+<br><br>I pen a travel column for <i>Bowu</i> (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>, <i>Grow</i>, and <i>Mongabay</i>. My new piece is up-coming in <i>Orion Magazine</i>. 
 
 <br><br>See my portfolio <a href="https://little-things-that-run-the-world.github.io/portfolio/">here</a>. 
 
@@ -100,6 +103,14 @@ I was featured in <i>Inside Shambhala</i>, a natural history documentary about t
 
 <p style="text-align: center;">
 Mt. Gongga glacier, Sichuan, China.
+</p>
+
+
+
+<img src='/images/ant.png' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
+
+<p style="text-align: center;">
+<i>Cerapachys zhengyangwangi</i>, a minuscule, bituminous army ant named after me.
 </p>
 
 

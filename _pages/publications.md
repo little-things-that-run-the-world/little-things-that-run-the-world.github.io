@@ -28,6 +28,9 @@ See [Google Scholar](https://scholar.google.com/citations?user=yL-Iv6wAAAAJ&hl=e
 **Caterpillar fungus:**
 </div>
 
+[2024] **Wang Z**, Kim S, Farrell BD, de Medeiros BAS. [Customizable PCR-based target enrichment probes for sequencing fungi-parasitized insects.](https://onlinelibrary.wiley.com/doi/full/10.1111/1744-7917.13413) *Insect Science*.
+
+
 [2023] **Wang Z**, Pierce N. [Fine-scale genome-wide signature of Pleistocene glaciation in host moths of caterpillar fungus in parallel river valleys.](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16457) *Molecular Ecology*.
 
 
