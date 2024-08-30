@@ -4,6 +4,8 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+<br/><img src='/images/Orion.png'>
+[2024] [Orion](https://orionmagazine.org/product/autumn-2024/)
 
 <br/><img src='/images/Nat_Geo_Hybrid.png'>
 [2024] [National Geographic](https://www.nationalgeographic.com/science/article/oldest-hybrid-butterfly-species) 

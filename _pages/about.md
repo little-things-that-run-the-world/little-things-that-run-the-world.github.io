@@ -35,7 +35,7 @@ I am a writer and conservation biologist. In 2014 I received a <a href="https://
 <br><br>I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating <i>Ophiocordyceps</i> fungus and the Tibetans who harvest them for a living. 
 
 
-<br><br>Currently I am an Associate at the Department of Organismic and Evolutionary Biology, Harvard University.
+<br><br>Currently I am an Assistant Professor at Sichuan University.
 </p>
 
 <img src='/images/Welcome_page_2_paradisea.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
@@ -49,7 +49,7 @@ My scientific work centers around using remote-sensing and molecular ecology too
 
 <br><br>See a list of lead-author publications <a href="https://little-things-that-run-the-world.github.io/publications/">here</a>. 
 
-<br><br>I pen a travel column for <i>Bowu</i> (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>, <i>Grow</i>, and <i>Mongabay</i>. My new piece is up-coming in <i>Orion Magazine</i>. 
+<br><br>I pen a travel column for <i>Bowu</i> (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>,  <i>Orion</i>, <i>Grow</i>, and <i>Mongabay</i>. 
 
 <br><br>See my portfolio <a href="https://little-things-that-run-the-world.github.io/portfolio/">here</a>. 
 
