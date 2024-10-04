@@ -6,7 +6,7 @@ author_profile: true
 ---
 Listed are my first and senior author publications.
 
-See [Google Scholar](https://scholar.google.com/citations?user=yL-Iv6wAAAAJ&hl=en) for all my publications, updated.
+See [Google Scholar](https://scholar.google.com/citations?user=OqXxR4UAAAAJ&hl=en) for all my publications, updated.
 
 <div class="tip" markdown="1" style="background-color: rgb(236,236,236);">
 **Remote sensing of insects:**

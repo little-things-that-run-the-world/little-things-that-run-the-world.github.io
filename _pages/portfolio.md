@@ -4,8 +4,12 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+
+<br/><img src='/images/Sci Ame Congo.png'>
+[2024] [Scientific American](https://www.scientificamerican.com/article/revealed-elephants-and-gorillas-hang-out-in-hidden-playgrounds)
+
 <br/><img src='/images/Orion.png'>
-[2024] [Orion](https://orionmagazine.org/product/autumn-2024/)
+[2024] [Orion](https://orionmagazine.org/article/silkworm-industry-china/)
 
 <br/><img src='/images/Nat_Geo_Hybrid.png'>
 [2024] [National Geographic](https://www.nationalgeographic.com/science/article/oldest-hybrid-butterfly-species) 
