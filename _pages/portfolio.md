@@ -29,25 +29,25 @@ author_profile: true
 **in Chinese**
 
 <br/><img src='/images/博物哥伦比亚.png'>
-[2023] [博物杂志：哥伦比亚](https://drive.google.com/file/d/121_B-Sn6ezTiX33WQVHhWICTHRYAwZHB/view?pli=1)
+[2023] [博物杂志：哥伦比亚](https://drive.google.com/file/d/1cBU384YoUeJE7lRIo6OlwrPKVJ8qDqeU/view?usp=sharing)
 
 <br/><img src='/images/博物肯尼亚.png'>
-[2022] [博物杂志：肯尼亚](https://drive.google.com/file/d/1Dn-Fnj1I2tOBiCGXyUk6VRgXAfws-C44/view)
+[2022] [博物杂志：肯尼亚](https://drive.google.com/file/d/19EnXNM5qM8RYSkNqfxQ_DKoIS7xMoBYj/view?usp=sharing)
 
 <br/><img src='/images/博物波士顿.png'>
-[2022] [博物杂志：波士顿](https://drive.google.com/file/d/1oKv6RZDHFjpIh6h33JgubeFba61p9GjC/view)
+[2022] [博物杂志：波士顿](https://drive.google.com/file/d/1j-r0DOlAxlAfSs8R3qbHTNkHdx79GqkX/view?usp=sharing)
 
 <br/><img src='/images/博物印度.png'>
-[2020] [博物杂志：印度](https://drive.google.com/file/d/1dGH_mkXVwpZsVafUC1EDrmGnMpU3YjGc/view)
+[2020] [博物杂志：印度](https://drive.google.com/file/d/1In3Jgltnmdzz0lkBZDJkZant2ZVp-FVa/view?usp=sharing)
 
 <br/><img src='/images/博物西藏.png'>
-[2019] [博物杂志：西藏](https://drive.google.com/file/d/16ZRMIbiAG7kwbN1iyIL2S55tLI_pZLU8/view)
+[2019] [博物杂志：西藏](https://drive.google.com/file/d/1w-KdBqjSv8lqMqRpWAYmZwYcV__qpY2s/view?usp=sharing)
 
 <br/><img src='/images/博物巴拿马.png'>
-[2019] [博物杂志：巴拿马](https://drive.google.com/file/d/1Ncm2N6BxQgO6DaO2sce_kGXP4vipuZMa/view)
+[2019] [博物杂志：巴拿马](https://drive.google.com/file/d/19VzcIE7cY3pp3mjmS6FegQqKy2NW30A4/view?usp=sharing)
 
 <br/><img src='/images/中国国家地理鸟翼蝶.png'>
-[2019] [中国国家地理：鸟翼蝶](https://drive.google.com/file/d/1K6J-NestGCe-fW_H7nIiTHUgj_o-hSS5/view)
+[2019] [中国国家地理：鸟翼蝶](https://drive.google.com/file/d/1y8OFRmbLYaLKMtBss9C1iHiV09pfBy2N/view?usp=sharing)
 
 {% include base_path %}
 
