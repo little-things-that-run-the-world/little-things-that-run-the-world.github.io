@@ -12,6 +12,8 @@ See [Google Scholar](https://scholar.google.com/citations?user=OqXxR4UAAAAJ&hl=e
 **Remote sensing of insects:**
 </div>
 
+[2025] **Wang Z**, Singh J, Davies A. [Consistent patterns of LiDAR-derived measures of savanna vegetation complexity between wet and dry seasons.](https://www.sciencedirect.com/science/article/pii/S1470160X24015188) *Ecological Indicators*.
+
 [2024] **Wang Z**, Huben R, Boucher P, Van Amburg C, Zeng J, Chung N...Davies A. [Automated detection of an insect-induced keystone vegetation phenotype using airborne LiDAR.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14298) *Methods in Ecology and Evolution*.
 
 <div class="tip" markdown="1" style="background-color: rgb(236,236,236);">

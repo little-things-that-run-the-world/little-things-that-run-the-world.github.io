@@ -29,7 +29,7 @@ Welcome &#124; 你好 &#124; བཀྲ་ཤིས་བདེ་ལགས།།
 
 
 <p style="margin-right: 5%; margin-left:5%">
-I am a writer and conservation biologist. In 2014 I received a <a href="https://en.wikipedia.org/wiki/Watson_Foundation">Thomas J. Watson Fellowship</a> to study butterfly farming around the world. In 2021 I received the <a href="https://en.wikipedia.org/wiki/Bowdoin_Prizes">Bowdoin Prize</a> from Harvard University. In 2023 I received the <a href="https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/">National Geographic Society Wayfinder Award</a> and was elected a National Geographic Explorer.
+I am a writer and conservation biologist. In 2014 I received a <a href="https://en.wikipedia.org/wiki/Watson_Foundation">Thomas J. Watson Fellowship</a> to study butterfly farming around the world. In 2021 I received the <a href="https://en.wikipedia.org/wiki/Bowdoin_Prizes">Bowdoin Prize</a> from Harvard University. In 2023 I received the <a href="https://blog.nationalgeographic.org/2023/05/31/the-national-geographic-society-announces-the-2023-wayfinder-award-recipients/">National Geographic Society Wayfinder Award</a> and was elected a National Geographic Explorer. In 2024 I received the <a href="https://www.maxwell-hanrahan.org/award/zhengyang-wang">Maxwell/Hanrahan Awards in Field Biology</a>.
 
 
 <br><br>I graduated from Swarthmore College (B.A., Philosophy and Biology) and Harvard University (PhD., Evolutionary Biology). During graduate school I worked at the same desk occupied by Vladimir Nabokov. My dissertation focused on the evolutionary history of the insect-eating <i>Ophiocordyceps</i> fungus and the Tibetans who harvest them for a living. 
@@ -49,7 +49,7 @@ My scientific work centers around using remote-sensing and molecular ecology too
 
 <br><br>See a list of lead-author publications <a href="https://little-things-that-run-the-world.github.io/publications/">here</a>. 
 
-<br><br>I pen a travel column for <i>Bowu</i> (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>,  <i>Orion</i>, <i>Grow</i>, and <i>Mongabay</i>. 
+<br><br>I pen a travel column for <i>Bowu</i> (博物杂志) in China. I have also written for <i>National Geographic</i>, <i>Nautilus Magazine</i>,  <i>Orion</i>, <i>Scientific American</i>, and <i>Mongabay</i>. 
 
 <br><br>See my portfolio <a href="https://little-things-that-run-the-world.github.io/portfolio/">here</a>. 
 
@@ -71,16 +71,6 @@ My scientific work centers around using remote-sensing and molecular ecology too
 <i>Ornithoptera goliath</i> scales. credit: Christian Alessandro Perez
 </p>
 
-
-
-
-
-<iframe style="max-height: 500px" src="https://www.youtube.com/embed/j6_yPVKT8K8?si=NsjyFxNGwygafQLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<p style="text-align: center;">
-Wayfinder Award spotlight talk at National Geographic Society Headquarters in D.C.
-</p>
 
 
 <br>
