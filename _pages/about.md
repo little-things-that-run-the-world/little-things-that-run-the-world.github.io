@@ -81,34 +81,35 @@ My scientific work centers around using remote-sensing and molecular ecology too
 </p>
 
 
-
-
-<iframe style="max-height: 600px" src="https://www.youtube.com/embed/MjmOtwZefvA?si=bzvh23RQxHV5sFdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<br>
+<iframe src="https://player.vimeo.com/video/1161579159" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p style="text-align: center;">
-I was featured in <i>Inside Shambhala</i>, a natural history documentary about the eastern Himalaya biodiversity hotspot, broadcast nationwide in China.
+A short video about my work, produced by the Maxwell/Hanrahan Foundation.
 </p>
 
 
+<br>
+<br>
 <img src='/images/Welcome_page_5_gongga.jpg' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
-
 <p style="text-align: center;">
 Mt. Gongga glacier, Sichuan, China.
 </p>
 
 
-
+<br>
+<br>
 <img src='/images/ant.png' class="center">{:style="display:block; margin-left:auto; margin-right:auto"}
-
 <p style="text-align: center;">
 <i>Cerapachys zhengyangwangi</i>, a minuscule, bituminous army ant named after me.
 </p>
 
 
-
+<br>
+<br>
 <p style="text-align: center;">
 <img src='/images/catching butterflies.png'>
 </p>
-
 <p style="text-align: center;">
 A life-time pursuit.<br> Left: (eons ago) catching butterflies in the mountains of western Sichuan. <br> Right: (closer to the present) holding a Golden Birdwing in the rainforest of Maluku Utara.
 </p>
