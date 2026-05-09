@@ -26,7 +26,12 @@ author_profile: true
 <br/><img src='/images/Mongabay_Tibet.png'>
 [2023] [Mongabay](https://news.mongabay.com/2023/06/chinas-qinghai-tibet-ecosystem-legislation-is-a-landmark-but-for-whom-commentary/#:~:text=The%20Qinghai%2DTibet%20Plateau%20Act,area%20larger%20than%20western%20Europe.) 
 
-**中文**
+<br/>
+<br/>
+**中文 in Chinese**
+
+<br/><img src='/images/博物泰国.png'>
+[2025] [博物杂志：泰国](https://drive.google.com/file/d/1PoMn6ho6II4vH76MadDsY-UmQN-sXmrz/view?usp=sharing)
 
 <br/><img src='/images/博物刚果.png'>
 [2024] [博物杂志：刚果](https://drive.google.com/file/d/11BEr77Jo8CKVHOFS2WOum8IsVzA1S_ex/view?usp=sharing)
