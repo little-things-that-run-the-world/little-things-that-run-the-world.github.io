@@ -4,6 +4,14 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+<br/><img src='/images/博物eDNA.png'>
+[2026] [博物杂志：eDNA](https://drive.google.com/file/d/1xtMh2JXlLI_3txSDyh6AznCAFpvk1qm9/view?usp=sharing)
+
+<br/><img src='/images/博物墨西哥logo.png'>
+[2026] [博物杂志：墨西哥](https://drive.google.com/file/d/1it2LYmfrzbqB4gT6s_U1RaI8CNvf7-UE/view?usp=sharing)
+
+<br/><img src='/images/博物食用昆虫.png'>
+[2026] [博物杂志：食用昆虫](https://drive.google.com/file/d/1N8FQPNOFTOsa3WGsN6_zsIAneTFh5K66/view?usp=sharing)
 
 <br/><img src='/images/Sci Ame Congo.png'>
 [2024] [Scientific American](https://www.scientificamerican.com/article/revealed-elephants-and-gorillas-hang-out-in-hidden-playgrounds)
